@@ -5,8 +5,8 @@ This space showcases my learning journey, labs, tools, and security-focused proj
 
 🔐 About Me
 
-Msc. in Software Engineering  - Edinburgh Napier University
-Experience in IT systems
+## Msc. in Software Engineering  - Edinburgh Napier University
+### Experience in IT systems
 
 🌐 Aspiring Cybersecurity Analyst / SOC Analyst / Pen Tester
 
