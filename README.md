@@ -55,6 +55,11 @@ Bash
 
 PowerShell
 
+JavaScript
+
+HTML
+Machine Learning
+
 🧪 Projects & Labs
 
 Here are some cybersecurity-related projects you’ll find in my repositories:
